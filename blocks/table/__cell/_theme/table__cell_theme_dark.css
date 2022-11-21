@@ -1,0 +1,10 @@
+.table__cell_theme_dark {
+    margin-top: 80px;
+    width: 200px;
+    color: #ffffff;
+    z-index: 3;
+}
+
+.table__cell:nth-of-type(5n) {
+    margin-right: 0;
+} 

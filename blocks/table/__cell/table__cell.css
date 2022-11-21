@@ -1,0 +1,8 @@
+.table__cell {
+    margin: 60px 0px 0px;
+    width: 250px;
+}
+
+.table__cell:nth-of-type(4n) {
+    margin-right: 0;
+} 

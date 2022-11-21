@@ -1,0 +1,17 @@
+.footer__column-links {
+    padding-bottom: 10px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.footer__column-links:hover {
+    text-decoration: underline;
+}
+
+
+.footer__column-links:last-of-type {
+    padding-bottom: 0px;
+} 

@@ -1,0 +1,11 @@
+.header {
+    min-height: 600px;
+    max-height: 756px;
+    display: flex; 
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+
+  
